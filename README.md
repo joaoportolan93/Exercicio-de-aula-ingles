@@ -1,18 +1,25 @@
-# TaskMeneger 
-## Este projeto permite que os usuarios possam criar, vizualizar e gerenciar suas tarefas rotuneiras de forma eficiente.
+# TaskMeneger 📝
+---
+Este projeto permite que os usuarios possam criar, vizualizar e gerenciar suas tarefas rotuneiras de forma eficiente.
 
+# Visão Geral do Software
+É um programa que visa a facilidade de gerenciar suas tarefas diarias de maneira mais eficiente.                                       
 
-## Emphasis
-*This text will be italic*
-///
-_This will also be italic_
-///
-**This text will be Bold**
-///
-__This will also be Bold__
-///
-_You **can** combine than_
-
+# Instalação do Programa
+1. Vá no Github e pesquise por "Task Maneger"
+2. Entre no primeiro link e baixe o arquivo "Task_Maneger_Clona_Cartão_2024.web" e espere o conteúdo terminar de baixar. 
+3. Assim que baixar, entre no aplicativo e coloque o seu email para a criação de uma conta, isso faz com que possamos avisar caso o programa necessite de atualizações (na vdd vamos flodar a sua caixa de email com anuncios suspeitos, maliciosos e que possam roubar suas informações para que possamos vender pro facebook, google e essas empresas gigantes🤭).
+  4. Depois coloca 5 pila no pix pfv temos crianças passando fome, é no cpf 
+## Guia de uso básico 
+Man, o negocio funciona maromeno assim:
+   1. Precione o número 1 do seu teclado para criar uma nova tarefa.  
+     2a. Agora coloque um nome para a tarefa, uma descrição, uma data e os status da sua tarefa.
+  3. Pressione o número 2 para visualizar a tarefa que você criou.
+  4. Pressione o número 3 para editar a tarefa.
+  5. Pressione o número 4 para remover/excluir a tarefa criada(Apagara TODA a tarefa).
+  6. Pressione o numero 5 para buscar a tarefa desejada.
+  7. Pressione o número 6 para filtrar uma tarefa.
+  8. E por fim, pressione o número 0 para fechar o programa. 
 ### Unordered
 * Item 1
 * Item 2
