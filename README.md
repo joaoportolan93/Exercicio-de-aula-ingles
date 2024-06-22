@@ -3,8 +3,7 @@
 Este projeto permite que os usuarios possam criar, vizualizar e gerenciar suas tarefas rotuneiras de forma eficiente.
 
 ## Visão Geral do Software
-É um programa que visa a facilidade de gerenciar suas tarefas diarias de maneira mais eficiente.                                       
-
+Este código em C++ implementa um gerenciador de tarefas simples, permitindo ao usuário adicionar, visualizar, editar, remover, buscar e filtrar tarefas. Ele utiliza arrays para armazenar informações das tarefas, como título, descrição, data e status, e uma variável de controle para rastrear o número total de tarefas. O programa apresenta um menu interativo que permite ao usuário escolher entre diferentes opções para gerenciar suas tarefas, utilizando funções específicas para cada operação, como `criartarefas`, `visualizartarefas`, `editartarefa`, `removertarefa`, `buscartarefas`, `filtro` e `sairdoprograma`.
 ## Instalação do Programa
 1. Vá no Github e pesquise por "Task Maneger"
 2. Entre no primeiro link e baixe o arquivo "Task_Maneger_Clona_Cartão_2024.web" e espere o conteúdo terminar de baixar. 
@@ -20,12 +19,10 @@ Man, o negocio funciona maromeno assim:
   6. Pressione o numero 5 para buscar a tarefa desejada.
   7. Pressione o número 6 para filtrar uma tarefa.
   8. E por fim, pressione o número 0 para fechar o programa. 
-### Unordered
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
-
+## Contribuição 
+Caso você tenha encontrado algum bug se fode ae num vo arrumar essa poha não KKKKKKKKKKKKKKKKKK
+Caô meu nobre, caso você tenha realmente encontrado um bug e queira ajudar esses pobres desenvolvedores 
+    
 ### Ordered
 1. Item 1
 2. Item 2
