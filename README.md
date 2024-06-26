@@ -8,7 +8,7 @@ Este código em C++ implementa um gerenciador de tarefas simples, permitindo ao 
 
 O TaskManager é um programa de código aberto e gratuito que pode ser facilmente instalado em qualquer sistema operacional. Para instalar o programa, basta seguir estas etapas:
 
-1. Baixe o arquivo do programa a partir do repositório GitHub: [https://github.com/Eoxia/task-manager](https://github.com/Eoxia/task-manager)
+1. Baixe o arquivo do programa a partir do repositório GitHub: [https://github.com/joaoportolan93/TaskManager](https://github.com/joaoportolan93/TaskManeger.git)
 2. Extraia o arquivo baixado para uma pasta de sua escolha.
 3. Abra o terminal e navegue até a pasta onde o programa foi extraído.
 4. Execute o comando `./taskmanager` para iniciar o programa.
@@ -48,7 +48,7 @@ O TaskManager é um projeto de código aberto e você é bem-vindo a contribuir 
 
 O TaskManager é uma ferramenta útil para organizar e gerenciar suas tarefas diárias. Com seu menu intuitivo e fácil de usar, você pode facilmente criar, visualizar, editar, remover e buscar tarefas. O programa também oferece recursos adicionais, como filtragem por status, que podem ser úteis para organizar e priorizar suas atividades.
 
-### Versão Markdown
+### **Versão Markdown**
 
 
 ## Guia de Instalação do TaskManager
